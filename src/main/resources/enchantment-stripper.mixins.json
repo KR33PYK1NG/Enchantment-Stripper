@@ -1,0 +1,10 @@
+{
+    "minVersion": "0.8",
+    "refmap": "enchantment-stripper.refmap.json",
+    "package": "rmc.mixins.enchantment_stripper.inject",
+    "mixins": [
+        "EnchantmentHelperMixin",
+        "ItemEntityMixin",
+        "ServerPlayNetHandlerMixin"
+    ]
+}
